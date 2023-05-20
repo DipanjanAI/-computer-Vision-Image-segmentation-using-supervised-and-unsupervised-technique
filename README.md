@@ -1,2 +1,2 @@
-# image-segmentation-validation
-This repo contains notebook showing grayscale to binary image segmentation and validation 
+[computer-Vision]-Image-segmentation-using-supervised-and-unsupervised-technique
+This project is a demonstration of how to do image segmentation using supervised and unsupervised technique.
